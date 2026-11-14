@@ -33,6 +33,6 @@ I design and build **production-grade autonomous AI agent systems, high-load Tel
 ---
 
 ### :mailbox: Connect with Me
-- **Telegram:** [@CyberPope](https://t.me/CyberPope)
+- **Telegram:** [@CyberFl0w](https://t.me/CyberFl0w)
 - **E-mail:** [googyaipro@gmail.com](mailto:googyaipro@gmail.com)
 - **Status:** Available for architectural consulting, enterprise AI bot development, and turnkey SaaS projects.
